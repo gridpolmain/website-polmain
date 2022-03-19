@@ -63,7 +63,7 @@
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="<?= base_url();?>index.php/database/download/KAL-AKA">Kalender Akademik</a>
                 <a class="dropdown-item" href="<?= base_url();?>index.php/database/download/BP-PKL">Praktik Kerja Lapangan</a>
-                <a class="dropdown-item" href="#">Tugas Akhir</a>
+                <a class="dropdown-item" href="<?= base_url();?>index.php/database/download/BP-TA">Tugas Akhir</a>
                 <a class="dropdown-item" href="<?= base_url();?>index.php/welcome/beasiswa">Beasiswa</a>
                 <a class="dropdown-item" href="<?= base_url();?>index.php/welcome/kemahasiswaan">Kemahasiswaan</a>
                 <a class="dropdown-item" href="<?= base_url();?>index.php/welcome/ukm">UKM & Prestasi</a>
