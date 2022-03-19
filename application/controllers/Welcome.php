@@ -44,4 +44,8 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('kerjasama');
 	}
+	public function P3M()
+	{
+		$this->load->view('P3M');
+	}
 }
