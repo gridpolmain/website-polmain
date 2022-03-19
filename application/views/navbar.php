@@ -54,8 +54,8 @@
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: #fff;">Program Studi</a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="<?= base_url();?>index.php/prodi/akuntansi">D3 Akuntansi</a>
-                <a class="dropdown-item" href="<?= base_url();?>index.php/prodi/tek_mesin">D3 Teknologi Mesin</a>
                 <a class="dropdown-item" href="<?= base_url();?>index.php/prodi/tek_komputer">D3 Teknologi Komputer</a>
+                <a class="dropdown-item" href="<?= base_url();?>index.php/prodi/tek_mesin">D3 Teknologi Mesin</a>
               </div>
             </li>
             <li class="nav-item dropdown">
