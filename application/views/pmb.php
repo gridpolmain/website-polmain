@@ -14,6 +14,7 @@
     <div class="container">
       <u><h3 class="font-weight-bold title" id="tentang_polmain" style="margin-top: 20px;">Penerimaan Mahasiswa Baru Tahun Akademik 2022/2023</h3></u>
       <p>
+      <iframe src="https://drive.google.com/file/d/1DFYm9VjTPuJTbjmEt49-hGQGdNnGUEPg/preview" width="100%" height="480" allow="autoplay" style="border: none; border-radius: 10px;"></iframe>
       <div class="row">
         <div class="col">
           <div class="col-md card" style="box-shadow: 2px 2px 3px #c7c7c7; margin-bottom: 20px;">
@@ -96,11 +97,9 @@
         <div class="col-md">
             <h5 style="font-weight: bold;">Link</h5>
             <strong>Brosur Pendaftaran:</strong>
-            <a href="https://docs.google.com/uc?export=download&id=1pzuxrQMgqzqkm3TWvPX-GL7sk1qh9-FR" style="width: 100%;">Brosur Penerimaan Mahasiswa Baru 2022</a><br>
+            <a href="https://docs.google.com/uc?export=download&id=1pzuxrQMgqzqkm3TWvPX-GL7sk1qh9-FR" style="width: 100%;" target="_blank">Brosur Penerimaan Mahasiswa Baru 2022</a><br>
             <strong>Unduh form Pendaftaran:</strong>
-            <a href="https://drive.google.com/drive/u/3/folders/1Bmy219AP-V2m4jMu6G3-mJJrqfHGhpz7" style="width: 100%;">Formulir Pendaftaran</a><br>
-            <strong>Upload Bukti Pendaftaran:</strong>
-            <a href="https://docs.google.com/forms/d/1mj1_Fbm_mDIPYWw1wDvgdU5OPnuoEcW5qyOpQyt2vqc/edit" style="width: 100%;">Bukti Pendaftaran</a>
+            <a href="https://drive.google.com/file/d/1I9KSu6NmjostC3p6-Zi0RU50Bsa_nYui/view?usp=sharing" style="width: 100%;" target="_blank">Formulir Pendaftaran</a><br>
         </div>
       </div>
     </div>
